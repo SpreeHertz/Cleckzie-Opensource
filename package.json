@@ -21,7 +21,7 @@
     "ffmpeg-static": "^5.0.0",
     "fs": "^0.0.1-security",
     "glob": "^8.0.1",
-    "got": "^12.0.4",
+    "got": "^12.6.0",
     "moment": "^2.29.3",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^6.3.6",
