@@ -20,7 +20,7 @@
     "dotenv": "^16.0.0",
     "ffmpeg-static": "^5.0.0",
     "fs": "^0.0.1-security",
-    "glob": "^8.0.1",
+    "glob": "^9.3.0",
     "got": "^12.0.4",
     "moment": "^2.29.3",
     "moment-duration-format": "^2.3.2",
