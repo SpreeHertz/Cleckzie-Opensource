@@ -4,7 +4,7 @@
   "description": "A multi-purpose discord bot that replaces all other Discord bots in your server!",
   "main": "index.js",
   "dependencies": {
-    "@discordjs/builders": "^0.13.0",
+    "@discordjs/builders": "^1.5.0",
     "@discordjs/opus": "^0.7.0",
     "@discordjs/voice": "^0.9.0",
     "bufferutil": "^4.0.6",
